@@ -1,13 +1,15 @@
-## Hey there, I'm Abdullah Abualigah 👋
+# 👋 Hey, I'm Abdullah Abualigah
 
-<h3 align="center">Turning raw data into meaningful insights 📊✨</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Machine+Learning+Enthusiast;Turning+Data+Into+Insights&center=true&width=500&height=45">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-abualigah-0323303a1">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Abualigah-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Abualigah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abualigah3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -15,57 +17,66 @@
 
 ## 🧠 About Me
 
-🎓 Data Science student at **Jordan University of Science and Technology (JUST)**  
-📍 Based in **Jordan 🇯🇴**  
-💡 Passionate about uncovering hidden patterns in data  
-🚀 Always building, learning, and competing  
+🎓 Data Science student @ **JUST**
+📍 Based in Jordan 🇯🇴
+🔍 Passionate about discovering hidden patterns in data
+⚡ I enjoy solving real-world problems using ML
 
-> *"Data doesn’t lie… but it definitely hides secrets waiting to be discovered."* 🔍  
+> *"Data is silent… until you know how to listen."*
 
 ---
 
 ## 🚀 What I Do
 
-- 🤖 Machine Learning & AI  
-- 🏆 Data Science Competitions (WiDS & more)  
-- 📊 Predictive Modeling & Feature Engineering  
-- 📈 Data Analysis & Visualization  
+💡 Build Machine Learning Models
+📊 Analyze & Visualize Data
+🏆 Compete in Datathons (WiDS & more)
+⚙️ Design End-to-End ML Pipelines
 
 ---
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
-`Python` | `C++` | `SQL`
+**Languages**
+`Python` `C++` `SQL`
 
-### 🧰 Tools & Libraries
-`Scikit-learn` • `XGBoost` • `LightGBM` • `Pandas` • `NumPy`  
-`Jupyter` • `Google Colab` • `Git` • `VS Code`
+**Libraries & Tools**
+`Scikit-learn` `XGBoost` `LightGBM` `Pandas` `NumPy`
+`Jupyter` `Colab` `Git` `VS Code`
 
 ---
 
-## 🔬 Current Focus
+## 🔥 Featured Projects
 
-- 🏆 Competing in **Datathons & ML Challenges**
-- ⚙️ Building **end-to-end ML pipelines**
-- 🌱 Exploring **advanced machine learning techniques**
+🔹 **ML Project Name** – Short description (classification/regression/EDA)
+🔹 **Data Analysis Project** – Insights + visualization
+🔹 **Competition Project** – Your ranking / approach
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Goals
+
+🥇 Win international competitions
+📚 Master advanced ML & Deep Learning
+🌍 Contribute to open source
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy turning messy datasets into clean, powerful stories—almost like solving puzzles 🧩
-
----
-
-## 📌 Goals
-
-- 🥇 Win international datathons  
-- 📚 Master advanced ML & deep learning  
-- 🌍 Contribute to impactful open-source projects  
+I treat messy datasets like puzzles 🧩 — the messier, the more fun.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  ⭐ If you like my work, feel free to check my repositories!
 </p>
