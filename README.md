@@ -1,11 +1,5 @@
 ## Hey, I'm [Abdullah Abualigah!](https://www.linkedin.com/in/abdullah-abualigah-0323303a1) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Welcome%20to%20My%20Data%20Universe&fontSize=50&animation=fadeIn" />
-  
-  <p align="center">
-    <kbd>Machine Learning Enthusiast</kbd> • <kbd>Predictive Modeling</kbd> • <kbd>AI Explorer</kbd>
-  </p>
 
   <h3> Transforming raw data into meaningful stories 📊✨ </h3>
 </div>
