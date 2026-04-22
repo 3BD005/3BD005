@@ -12,7 +12,7 @@
 
 > **"In Data Science, the data doesn't lie — but it does hide the truth sometimes."** 🔍
 
-**I am Abdullah Abu Aliqa, a data science student at Jordan University of Science and Technology. I focus on building intelligent predictive models and solving complex problems using machine learning.
+**"I am Abdullah Abu Aliqa, a data science student at Jordan University of Science and Technology. I focus on building intelligent predictive models and solving complex problems using machine learning."**
 ---
 
 ### 🚀 Passion & Focus
