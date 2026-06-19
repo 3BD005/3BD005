@@ -1,16 +1,34 @@
-## Hi there 👋
+```python
+Abdullah = {
+    "name": "Abdullah Abualigah",
+    "role": "Data Science Student @ JUST",
+    "location": "Jordan 🇯🇴",
 
-<!--
-**3BD005/3BD005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    "interests": [
+        "Machine Learning",
+        "Deep Learning",
+        "Data Analytics",
+        "AI"
+    ],
 
-Here are some ideas to get you started:
+    "currently_learning": [
+        "Transformers",
+        "LangChain",
+        "AI Agents",
+        "LLMs"
+    ],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    "skills": {
+        "languages": ["Python"],
+        "frameworks": ["PyTorch", "TensorFlow"],
+        "libraries": ["Pandas", "NumPy", "Scikit-learn"],
+        "tools": ["Git", "GitHub", "Jupyter"]
+    },
+
+    "contact": {
+        "email": "abualigah3@gmail.com",
+        "linkedin": "linkedin.com/in/abdullah-abualigah-0323303a1",
+        "github": "github.com/3BD005"
+    }
+}
+```
