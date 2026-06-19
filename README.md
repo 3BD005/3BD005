@@ -1,6 +1,6 @@
 ```python
 Abdullah = {
-    "name": "Abdullah Abualigah",
+    "name": "Abdullah M. Abualigah",
     "role": "Data Science Student @ JUST",
     "location": "Jordan 🇯🇴",
 
